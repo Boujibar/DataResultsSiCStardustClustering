@@ -1,6 +1,6 @@
 # DataResultsSiCStardustClustering
 
-This excel file shows data and results on cluster analysis of presolar silicon carbide (SiC) grains
+This excel file shows data and results on cluster analysis of presolar silicon carbide (SiC) grains. DOI:10.5281/zenodo.4304818
 
 It is linked to the article currently in revision for publication in The Astrophysical Journal Letters: "Cluster analysis of presolar silicon carbide grains: evaluation of their classification and astrophysical implications" by Asmaa Boujibar1, Samantha Howell1,2, Shuang Zhang1, Grethe Hystad3, Anirudh Prabhu4, Nan Liu5, Thomas Stephan6,7, Shweta Narkar4, Ahmed Eleish4, Shaunna M. Morrison1, Robert M. Hazen1, Larry R. Nittler1.
 
