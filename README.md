@@ -7,6 +7,8 @@ It is linked to the article currently in revision for publication in The Astroph
 Affiliations: 1Earth and Planets Laboratory, Carnegie Institution for Science, 2Washington College, 3Purdue University Northwest, 4Tetherless World Constellation, Rensselaer Polytechnic Institute, 5Washington University in St. Louis, Sciences, 6The University of Chicago, 7Chicago Center for Cosmochemistry
 
 Original data (excel file PGD_SiC_2020-08-18.xlsx) is open access and can be found on the website of Washington University in St. Louis: https://presolar.physics.wustl.edu/presolar-grain-database/
+K. M. Hynes and F. Gyngard, 2009, Lunar Planet. Sci. 40, Abstract #1198
+T. Stephan et al., 2020, Lunar Planet. Sci. 51, Abstract #2140
 
 An R code is linked to this excel file, which shows how presented results are retrieved:
 https://github.com/Boujibar/PresolarSiCclustering2021
